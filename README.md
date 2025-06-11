@@ -2,12 +2,12 @@
 
 > **Advanced monitoring and decision support for sustainable water management across the Nile Basin**
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://nbi-water-resources-dashboard.streamlit.app/)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![License: Demo](https://img.shields.io/badge/license-Demo-green.svg)](#license)
 [![NBI](https://img.shields.io/badge/for-Nile%20Basin%20Initiative-blue.svg)](https://nilebasin.org)
 
-![NBI Dashboard Preview](https://via.placeholder.com/800x400/1e3c72/ffffff?text=NBI+Water+Resources+Dashboard)
+![NBI Dashboard Preview](https://nbi-water-resources-dashboard.streamlit.app/)
 
 ## 🎯 Executive Summary
 
@@ -25,7 +25,7 @@ The **NBI Water Resources Management System** is a comprehensive, web-based plat
 
 ## 🚀 Live Demo & Quick Start
 
-### **🌐 [Access Live Application →](https://nbi-water-resources.streamlit.app)**
+### **🌐 [Access Live Application →](https://nbi-water-resources-dashboard.streamlit.app/)**
 
 **Quick Demo Path:**
 1. **Regional Overview** → See basin-wide station network and real-time status
@@ -151,8 +151,8 @@ streamlit run main.py
 3. **Deploy Application**: 
    - Repository: `your-username/nbi_water_resources_app`
    - Main file: `main.py`
-   - App URL: Choose professional name (e.g., `nbi-water-dashboard`)
-4. **Go Live**: Application available at `https://your-app-name.streamlit.app`
+   - App URL: Choose professional name (e.g., `nbi-water-resources-dashboard`)
+4. **Go Live**: Application available at `https://nbi-water-resources-dashboard.streamlit.app`
 
 ### **Production Requirements**
 ```txt
@@ -248,7 +248,7 @@ Dear Nile Basin Initiative Leadership,
 
 I am **Raymond Rwayesu**, a data scientist and software developer based in Kampala, with 10+ years of experience in statistical analysis and system development. I have developed a comprehensive **Water Resources Management System** specifically designed for NBI's operational needs.
 
-**🌐 Live Demo**: [View Application](https://your-app-url.streamlit.app)
+**🌐 Live Demo**: [View Application](https://nbi-water-resources-dashboard.streamlit.app/)
 
 **Key Achievements**:
 - ✅ **Real Data Integration**: Successfully processes your FAO WaPOR satellite datasets
@@ -268,7 +268,7 @@ I would welcome the opportunity to present this solution to your technical team 
 **Contact Information**:
 - 📧 **Email**: sseguya256@gmail.com
 - 📱 **Phone**: +256 784 902 753
-- 🌐 **Demo**: https://your-app-url.streamlit.app
+- 🌐 **Demo**: https://nbi-water-resources-dashboard.streamlit.app/
 - 💻 **GitHub**: https://github.com/rryesuafuga/nbi_water_resources_app
 
 ---
@@ -282,7 +282,7 @@ I would welcome the opportunity to present this solution to your technical team 
 - 📧 **Email**: sseguya256@gmail.com
 - 📱 **Phone**: +256 784 902 753
 - 📍 **Location**: Kampala, Uganda
-- 💼 **LinkedIn**: [Connect on LinkedIn](https://www.linkedin.com/in/your-profile)
+- 💼 **LinkedIn**: [Connect on LinkedIn](https://www.linkedin.com/in/ryesuafuga)
 - 💻 **GitHub**: [@rryesuafuga](https://github.com/rryesuafuga)
 
 ### **Technical Expertise**
@@ -362,7 +362,7 @@ For production deployment and commercial use:
 ## 📞 Get Started Today
 
 ### **For NBI Stakeholders**
-1. **🌐 View Demo**: [Access Live Application](https://your-app-url.streamlit.app)
+1. **🌐 View Demo**: [Access Live Application](https://nbi-water-resources-dashboard.streamlit.app/)
 2. **📧 Contact Developer**: sseguya256@gmail.com
 3. **📅 Schedule Meeting**: Discuss integration possibilities
 4. **🚀 Plan Deployment**: Transition from demo to production

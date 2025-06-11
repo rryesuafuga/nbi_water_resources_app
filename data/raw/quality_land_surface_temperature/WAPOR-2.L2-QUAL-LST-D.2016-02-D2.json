@@ -1,0 +1,11 @@
+{
+  "workspaceCode" : "WAPOR-2",
+  "mapsetCode" : "L2-QUAL-LST-D",
+  "code" : "WAPOR-2.L2-QUAL-LST-D.2016-02-D2",
+  "dimensionMembers" : [ {
+    "workspaceCode" : "SHARED",
+    "dimensionCode" : "DEKAD",
+    "code" : "2016-02-D2"
+  } ],
+  "styleCode" : null
+}

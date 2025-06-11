@@ -1,0 +1,11 @@
+{
+  "workspaceCode" : "WAPOR-2",
+  "mapsetCode" : "L2-LCC-A",
+  "code" : "WAPOR-2.L2-LCC-A.2015",
+  "dimensionMembers" : [ {
+    "workspaceCode" : "SHARED",
+    "dimensionCode" : "YEAR",
+    "code" : "2015"
+  } ],
+  "styleCode" : null
+}

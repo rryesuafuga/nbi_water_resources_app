@@ -1,0 +1,11 @@
+{
+  "workspaceCode" : "WATER",
+  "mapsetCode" : "NILE-NRD",
+  "code" : "WATER.NILE-NRD.2017-03",
+  "dimensionMembers" : [ {
+    "workspaceCode" : "SHARED",
+    "dimensionCode" : "MONTH",
+    "code" : "2017-03"
+  } ],
+  "styleCode" : null
+}

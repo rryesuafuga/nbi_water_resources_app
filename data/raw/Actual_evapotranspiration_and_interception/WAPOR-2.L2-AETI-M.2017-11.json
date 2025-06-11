@@ -1,0 +1,11 @@
+{
+  "workspaceCode" : "WAPOR-2",
+  "mapsetCode" : "L2-AETI-M",
+  "code" : "WAPOR-2.L2-AETI-M.2017-11",
+  "dimensionMembers" : [ {
+    "workspaceCode" : "SHARED",
+    "dimensionCode" : "MONTH",
+    "code" : "2017-11"
+  } ],
+  "styleCode" : null
+}

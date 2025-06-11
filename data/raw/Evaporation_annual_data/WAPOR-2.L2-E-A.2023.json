@@ -1,0 +1,11 @@
+{
+  "workspaceCode" : "WAPOR-2",
+  "mapsetCode" : "L2-E-A",
+  "code" : "WAPOR-2.L2-E-A.2023",
+  "dimensionMembers" : [ {
+    "workspaceCode" : "SHARED",
+    "dimensionCode" : "YEAR",
+    "code" : "2023"
+  } ],
+  "styleCode" : null
+}
